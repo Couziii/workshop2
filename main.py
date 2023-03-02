@@ -2,9 +2,7 @@
 
 def main():
     name = input('Enter your name: ')
-    print(f'Hello = {name}')
-
-
+    print(f'My name is {name}')
 
 
 if __name__ == '__main__':
